@@ -1,0 +1,52 @@
+{
+  "users": {
+    "alon": {
+      "first": "Alon",
+      "last": "Levi",
+      "role": "Engineering",
+      "photo": "https://ca.slack-edge.com/TBDJCFH1R-U02SAT60FFU-ec9de12b3508-512"
+    },
+    "colm": {
+      "first": "Colm",
+      "last": "Tuite",
+      "role": "Design",
+      "photo": "https://ca.slack-edge.com/TBDJCFH1R-U035U353J12-d7eff4c2202c-512"
+    },
+    "mark": {
+      "first": "Mark",
+      "last": "Tran",
+      "role": "Engineering",
+      "photo": "https://ca.slack-edge.com/TBDJCFH1R-UG4S5KKD1-09ba538fe80d-512"
+    },
+    "mg": {
+      "first": "Michael",
+      "last": "Grinich",
+      "role": "Founder",
+      "photo": "https://ca.slack-edge.com/TBDJCFH1R-UBDER4L9J-0160af3bc68f-512"
+    },
+    "rob": {
+      "first": "Rob",
+      "last": "Frampton",
+      "role": "Engineering",
+      "photo": "https://ca.slack-edge.com/TBDJCFH1R-U026L69HJ20-19477540cce7-512"
+    },
+    "stephen": {
+      "first": "Stephen",
+      "last": "Haney",
+      "role": "Engineering",
+      "photo": "https://ca.slack-edge.com/TBDJCFH1R-U035U36HJ0L-bc8dae56e43c-512"
+    },
+    "vitor": {
+      "first": "Vitor",
+      "last": "Capretz",
+      "role": "Engineering",
+      "photo": "https://ca.slack-edge.com/TBDJCFH1R-U02BGE57PCY-12304dd303c5-512"
+    },
+    "zeno": {
+      "first": "Zeno",
+      "last": "Rocha",
+      "role": "Developer Experience",
+      "photo": "https://ca.slack-edge.com/TBDJCFH1R-U025MSLMAQM-bdf16afa1f93-512"
+    }
+  }
+}
